@@ -1,2 +1,2 @@
 # smile-detector
-The smile and most powerful smile detector application.
+Most powerful smile detector application.
